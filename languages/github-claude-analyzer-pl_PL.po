@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GitHub Claude Analyzer 2.0.0\n"
+"POT-Creation-Date: 2025-05-13 09:00+0100\n"
+"PO-Revision-Date: 2025-05-13 09:00+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 "
+"|| n%100>14) ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-admin.php:87
+msgid "GitHub Claude Analyzer"
+msgstr "GitHub Claude Analyzer"
+
+#: admin/class-admin.php:88
+msgid "GitHub Claude"
+msgstr "GitHub Claude"
+
+#: admin/class-admin.php:96
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: admin/class-admin.php:97
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: admin/class-admin.php:105
+msgid "Diagnostics"
+msgstr "Diagnostyka"
+
+#: admin/class-admin.php:106
+msgid "Diagnostics"
+msgstr "Diagnostyka"
+
+#: admin/partials/admin-display.php:16
+msgid "Welcome to GitHub Claude Analyzer! This plugin allows you to analyze GitHub repositories using Claude AI."
+msgstr "Witaj w GitHub Claude Analyzer! Ta wtyczka umożliwia analizę repozytoriów GitHub za pomocą Claude AI."
+
+#: admin/partials/admin-display.php:19
+msgid "How to use?"
+msgstr "Jak używać?"
+
+#: admin/partials/admin-display.php:20
+msgid "To analyze a GitHub repository, you can:"
+msgstr "Aby przeanalizować repozytorium GitHub, możesz:"
+
+#: admin/partials/admin-display.php:22
+msgid "Use the form below, or"
+msgstr "Użyć poniższego formularza, lub"
+
+#: admin/partials/admin-display.php:23
+msgid "Place the shortcode <code>[github_claude_analyzer]</code> on any page or post."
+msgstr "Umieścić shortcode <code>[github_claude_analyzer]</code> na dowolnej stronie lub wpisie."
+
+#: admin/partials/admin-display.php:28
+msgid "Analyze repository"
+msgstr "Analizuj repozytorium"
+
+#: public/partials/form-display.php:18
+msgid "API keys not configured."
+msgstr "Klucze API nie są skonfigurowane."
+
+#: public/partials/form-display.php:19
+msgid "Go to settings"
+msgstr "Przejdź do ustawień"
+
+#: public/partials/form-display.php:19
+msgid "and add the Claude API key."
+msgstr "i dodaj klucz API Claude."
+
+#: public/partials/form-display.php:21
+msgid "Log in to use the GitHub repository analyzer."
+msgstr "Zaloguj się, aby używać analizatora repozytoriów GitHub."
+
+#: public/partials/form-display.php:29
+msgid "GitHub Repository Analysis"
+msgstr "Analiza repozytorium GitHub"
+
+#: public/partials/form-display.php:38
+msgid "Analyze these files and describe what they do. Focus on the main functionality and architecture."
+msgstr "Przeanalizuj te pliki i opisz, co robią. Skup się na głównej funkcjonalności i architekturze."
+
+#: public/js/claude-chat.js:10
+msgid "Chat with Claude AI"
+msgstr "Chat z Claude AI"
+
+#: public/js/claude-chat.js:45
+msgid "You must be logged in to use chat."
+msgstr "Musisz być zalogowany, aby korzystać z czatu."
+
+#: public/js/claude-chat.js:83
+msgid "Hello! I'm Claude AI and I can help you with programming-related questions."
+msgstr "Witaj! Jestem Claude AI i mogę pomóc Ci w kwestiach programistycznych."

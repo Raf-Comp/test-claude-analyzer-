@@ -1,0 +1,50 @@
+body .gca-container {
+  max-width: 1200px !important;
+  margin: 0 auto !important;
+  padding: 20px !important;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif !important;
+}
+
+body .gca-card {
+  background-color: #fff !important;
+  border-radius: 8px !important;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1) !important;
+  margin-bottom: 24px !important;
+  overflow: hidden !important;
+}
+
+body .gca-form-group {
+  margin-bottom: 20px !important;
+}
+
+body .gca-input {
+  width: 100% !important;
+  padding: 10px 12px !important;
+  border-radius: 4px !important;
+  border: 1px solid #d1d5db !important;
+  font-size: 16px !important;
+  box-sizing: border-box !important;
+}
+
+body .gca-btn {
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  padding: 10px 16px !important;
+  border-radius: 4px !important;
+  font-weight: 500 !important;
+  cursor: pointer !important;
+  text-decoration: none !important;
+}
+
+body .gca-btn-primary {
+  background-color: #6366f1 !important;
+  color: white !important;
+  border: none !important;
+}
+
+body .gca-btn-secondary {
+  background-color: #f3f4f6 !important;
+  color: #374151 !important;
+  border: 1px solid #d1d5db !important;
+}
